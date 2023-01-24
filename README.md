@@ -3,15 +3,14 @@
 
 ## A sample github repo demonstrating how to turn in assignments and labs
 
-| Name | Value |
+| Name | Sullivan Frazier |
 |:---|:---|
-| **Course** | CSCI111 - CS1: Foundations of Computer Science |
-| **Section** | 3 |
-| **Semester** | Fall 2020 |
-| **Student** | A Student |
-| **Mav Username**            | astudent |
-| **GitHub Username**         | gituser123 |
-| **Repository**          | https://github.com/rambasnet/csci000-astudent |
+| **Course** | Object Oriented Programming |
+| **Section** | 1 |
+| **Semester** | Spring 2023 |
+| **Mav Username**            | sdfrazier |
+| **GitHub Username**         | Reizarf |
+| **Repository**          | https://github.com/Reizarf |
 
 ## Assignments
 
