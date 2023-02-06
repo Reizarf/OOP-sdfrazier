@@ -20,11 +20,11 @@
 | :--- | :--- |
 | Name | Hello World |
 | Description | A basic hello world program |
-| Due Date | 1-Jan-20 |
+| Due Date | 1-February-2023 |
 | Status | Done |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/ |
 | Self Grade | 100/100 |
-| Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
+| Notes |  |
 
 ### Assignment #2
 
