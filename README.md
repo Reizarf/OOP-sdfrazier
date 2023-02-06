@@ -30,33 +30,12 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | Egypt |
-| Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
-| Due Date | 1-Feb-2020 |
-| Status | In-progress |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
-| Self Grade | - |
-| Notes | completed the solution; need to write test cases |
+| Name | Python Fundamentals and Quizzes |
+| Description | Screenshots of before/after quizzes |
+| Due Date | 13-Feb-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/review |
+| Self Grade | 100 |
+| Notes | screenshots in each folder |
 
 
-## Labs
-
-### Lab #1
-
-| Name | Value |
-| :--- | :--- |
-| Name | 1 - Std IO Lab |
-| Description | Lab covering standard input and output |
-| Due Date | 10-Jan-20 |
-| Status | in-progress |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
-| Self Grade | - |
-| Notes | typed the given code stub; need to fix all the fixmes |
-
-
-## References
-
-1. [How to turn in assignments on GitHub](https://docs.google.com/document/d/16mixtVA-dePbWidBzI3JXNW4kFhRyT7XsJgL6GtGvGA/edit?usp=sharing)
-2. [Git Started](https://docs.google.com/document/d/1M0YeBfFPy5YPpfX7312R9-IldjagimvEma_YhgeLPcw/edit#heading=h.ssqvh5gmotj4)
-3. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-4. Other
