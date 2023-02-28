@@ -1,0 +1,9 @@
+@startuml
+skinparam classAttributeIconSize 0
+class KattisPolygon {
+-n integer
+-points integer
++read_and_print_area()
++calculate_polygon_area()
+}
+@enduml

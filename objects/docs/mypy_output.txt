@@ -1,0 +1,6 @@
+polygonarea.py:16: error: Argument 1 to "len" has incompatible type "KattisPolygon"; expected "Sized"
+polygonarea.py:23: error: Value of type "KattisPolygon" is not indexable
+polygonarea.py:24: error: Incompatible types in assignment (expression has type "float", variable has type "int")
+polygonarea.py:27: error: Method must have at least one argument
+polygonarea.py:45: error: Argument 1 to "calculate_polygon_area" of "KattisPolygon" has incompatible type "List[Tuple[int, int]]"; expected "KattisPolygon"
+Found 5 errors in 1 file (checked 1 source file)

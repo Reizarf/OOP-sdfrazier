@@ -1,0 +1,10 @@
+@startuml
+object polygonArea
+object main
+
+
+polygonArea <|-- main : manages
+' Object03 *-- Object04
+' Object05 o-- "4" Object06
+' Object07 .. Object08 : some labels
+@enduml
