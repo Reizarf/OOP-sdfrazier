@@ -38,4 +38,14 @@
 | Self Grade | 100 |
 | Notes | screenshots in each folder |
 
+### Assignment 3
+| Name | Value |
+| :--- | :--- |
+| Name | Convex Polygon Area in OOD |
+| Description | . |
+| Due Date | 28-Feb-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/objects |
+| Self Grade | 90 |
+| Notes | . |
 
