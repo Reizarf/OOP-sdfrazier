@@ -2,7 +2,7 @@ import math
 from typing import List
 
 class KattisPolygon():
-    # Function to calculate the area of a convex polygon
+    # function calculates area of polygon
     def calculate_polygon_area(points) -> int:
         """
         Calculates area based on points map variable
