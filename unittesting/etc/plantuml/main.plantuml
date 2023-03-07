@@ -1,0 +1,13 @@
+@startuml
+class Solution {
+
+    -input_source :str
+    -encrpytion :str
+    -palindrome :int
+
+    +read_input(self)
+    +call_encrpyt(self)
+    +call_isP(self)
+    +call_print(self)
+}
+@enduml

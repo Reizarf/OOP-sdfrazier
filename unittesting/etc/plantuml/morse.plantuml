@@ -1,0 +1,19 @@
+@startuml
+class MorseCodeKattis {
+    -input_source :str
+    -encryption :str 
+    -palindrome :int
+
+    +setInput(self)
+    +getInputs(self)
+    
+    +setEncrypt(self)
+    +getEncrypt(self)
+
+    +setPalindrome(self)
+    +getPalindrome(self)
+
+    +printAns(self)
+
+}
+@enduml
