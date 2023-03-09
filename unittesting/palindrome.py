@@ -1,4 +1,5 @@
 import re
+from typing import List
 
 class MorseCodePalindrome:
     morse_code_lib = {
@@ -65,6 +66,7 @@ class MorseCodePalindrome:
             return False
         else:
             return self.usrString.isalnum()
+    
     
     def regEx(self)->str:
         """

@@ -1,0 +1,3 @@
+palindrome.py:37: error: "list" is not subscriptable, use "typing.List" instead
+palindrome.py:38: error: "list" is not subscriptable, use "typing.List" instead
+Found 2 errors in 1 file (checked 1 source file)
