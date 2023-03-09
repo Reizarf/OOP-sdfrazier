@@ -53,7 +53,7 @@
 | Name | Value |
 | :--- | :--- |
 | Name | Morse Code Palindromes |
-| Description | . |
+| Description | Kattis Problem |
 | Due Date | 07-Mar-2023 |
 | Status | Complete |
 | Location | https://github.com/Reizarf/OOP-sdfrazier/unittesting |
