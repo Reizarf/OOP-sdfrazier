@@ -1,0 +1,19 @@
+@startuml
+class MorseCodePalindrome{
+    -usrString :str
+    -morseCodeList list
+    -morseCodeREV list
+
+    +get_InString(self) -> str
+    +set_InString(self) -> None
+
+    +isAlphaNum(self) ->bool
+
+    +regex(self) -> str
+
+    +toMorse(self)->None:
+
+    +checkForPalindrome(self)->int
+
+}
+@enduml
