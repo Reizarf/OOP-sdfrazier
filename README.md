@@ -55,8 +55,8 @@
 | Name | Morse Code Palindromes |
 | Description | . |
 | Due Date | 07-Mar-2023 |
-| Status | Incomplete |
+| Status | Complete |
 | Location | https://github.com/Reizarf/OOP-sdfrazier/unittesting |
-| Self Grade | X |
-| Notes | Still working, pushing as work is completed. |
+| Self Grade | 95 |
+| Notes | Complete |
 
