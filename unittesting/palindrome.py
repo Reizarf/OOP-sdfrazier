@@ -111,11 +111,11 @@ class MorseCodePalindrome:
                 return 1
         return 0
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
 
-#     test_in = input()
-#     x1 = MorseCodePalindrome(test_in)
-#     x1.isAlphaNum()
-#     x1.regEx()
-#     x1.toMorse()
-#     print(x1.checkForPalindrome())
+    test_in = input()
+    x1 = MorseCodePalindrome(test_in)
+    x1.isAlphaNum()
+    x1.regEx()
+    x1.toMorse()
+    print(x1.checkForPalindrome())
