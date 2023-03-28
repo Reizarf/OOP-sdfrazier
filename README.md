@@ -60,3 +60,14 @@
 | Self Grade | 95 |
 | Notes | Complete |
 
+
+### Assignment 4
+| Name | Value |
+| :--- | :--- |
+| Name | Hypothesis and Mocking |
+| Description | Kattis Problem - Title Cost |
+| Due Date | 07-Mar-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/hypothesis |
+| Self Grade | 100 |
+| Notes | Complete |
