@@ -1,0 +1,6 @@
+@startuml
+object Title
+object Main
+Title <|-- Main :Manages and calls functions
+
+@enduml
