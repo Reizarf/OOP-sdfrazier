@@ -17,3 +17,6 @@ uml:
 
 pdoc:
 	pdoc --html docs/ main.py title.py
+
+coverage:
+	coverage run -m unittest hypothesis/test_*
