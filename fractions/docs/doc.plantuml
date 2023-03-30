@@ -1,0 +1,6 @@
+@startuml
+object KattisMixedFraction
+object Main
+KMF <|-- Main :Manages and calls calculate function
+
+@enduml
