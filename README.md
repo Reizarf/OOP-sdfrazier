@@ -71,3 +71,14 @@
 | Location | https://github.com/Reizarf/OOP-sdfrazier/tree/main/hypothesis |
 | Self Grade | 100 |
 | Notes | Complete |
+
+### Assignment 6
+| Name | Value |
+| :--- | :--- |
+| Name | Mixed Fractions |
+| Description | Kattis Problem - Mixed Fractions|
+| Due Date | 23-Mar-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/tree/main/fractions |
+| Self Grade | 80 |
+| Notes | Still working on hypothesis testing framework.. |
