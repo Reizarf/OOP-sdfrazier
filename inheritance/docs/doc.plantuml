@@ -1,0 +1,8 @@
+@startuml
+object NumberList
+object Main
+object PrintStatistics
+
+NumberList <|-- Main :Manages and calls functions
+PrintStatistics <|-- NumberList:PrintStatistics inherits NumberList to call it's functions.
+@enduml

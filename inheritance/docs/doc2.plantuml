@@ -1,0 +1,16 @@
+@startuml
+
+class NumberList{
+    ~get_Container
+    ~findRange
+    ~findMax
+    ~findMin
+}
+
+class PrintStatistics{
+    ~statFormat
+    ~__str__
+}
+NumberList -> PrintStatistics
+
+@enduml
