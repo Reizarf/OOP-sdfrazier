@@ -82,3 +82,14 @@
 | Location | https://github.com/Reizarf/OOP-sdfrazier/tree/main/fractions |
 | Self Grade | 80 |
 | Notes | Still working on hypothesis testing framework.. |
+
+### Assignment 7
+| Name | Value |
+| :--- | :--- |
+| Name | Statistics |
+| Description | Kattis Problem - Statistics |
+| Due Date | 30-Mar-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/tree/main/inheritance |
+| Self Grade | 99 |
+| Notes | X |
