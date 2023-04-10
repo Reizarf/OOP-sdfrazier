@@ -91,5 +91,5 @@
 | Due Date | 30-Mar-2023 |
 | Status | Complete |
 | Location | https://github.com/Reizarf/OOP-sdfrazier/tree/main/inheritance |
-| Self Grade | 99 |
+| Self Grade | 100 |
 | Notes | X |
